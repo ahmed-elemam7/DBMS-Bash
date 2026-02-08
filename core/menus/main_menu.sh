@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 main_menu() {
-  PS3="Choose an option: "
+  PS3="Choose an option form main menu: "
 
   select choice in \
     "Create Database" \
